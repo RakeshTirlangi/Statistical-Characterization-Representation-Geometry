@@ -1,6 +1,6 @@
 # Statistical Characterization of Embedding Geometry in Pretrained Language Models
 
-![Covariance Spectrum Decay](d009b6fd-70af-4ea3-b5d3-2f03d55ac388.png)
+![Covariance Spectrum Decay](assets/covariance-spectrum.png)
 
 ---
 
